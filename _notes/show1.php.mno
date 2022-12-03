@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:autonum;datatype:int,name:name;datatype:string,name:class;datatype:string,name:school;datatype:string,name:today;datatype:string,name:time;datatype:string,name:score;datatype:string" />
+</info>
