@@ -16,3 +16,4 @@ if ($test1=="monitor") {print"ถูกต้อง<p>";} else {print"ไม่�
 print "<b>ข้อ2</b>. $test2<br>";
 if ($test2=="keyboard") {print"ถูกต้อง<p>";} else {print"ไม่ถูกต้อง<p>";}
 ?>
+</html>
